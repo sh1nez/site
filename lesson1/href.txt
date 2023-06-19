@@ -1,2 +1,4 @@
 https://git-scm.com/
 https://github.com/
+https://github.com/Module4/Module4
+https://gist.github.com/supervoron1/510a91d47f3bb51a24e1090f63188bcb
