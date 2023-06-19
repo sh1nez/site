@@ -1,0 +1,30 @@
+h1 {
+    background: rgb(134, 193, 39);
+}
+h2 {
+    background: rgb(161, 48, 217);
+}
+
+.paragraph-1 {
+    background: blue;
+    font-size: 32pt;
+    color: green;
+}
+.paragraph-2 {
+    background: rgb(132, 132, 156);
+    font-size: 32pt;
+    color: rgb(188, 232, 188);
+    border: 10px;
+    border-radius: 40px;
+}
+.paragraph-3 {
+    background: rgb(137, 25, 24);
+    font-size: 32pt;
+    color: rgb(222, 219, 45);
+    margin-top: 40px;
+    padding-right: 500px;
+}
+.div-1 {
+    font-size: 32pt;
+    font-weight: 200;
+}
