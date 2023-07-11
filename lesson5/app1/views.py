@@ -12,10 +12,11 @@ def fiba(num):
 
 
 def slowDownAndWasteMemory(request):
+    print('я тут ')
     dick = {
-        'num': fiba(10),
-    }
-    return render(request, 'app1/index.html')
+        'num': fiba(10)
+        }
+    return render(request, 'app1/index.html', dick)
 
 if __name__ == '__main__':
     print(fiba(5))
